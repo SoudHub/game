@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "UserID(GetForAPI)",
+      "username": "username_here",
+      "writhsaves": {
+        "UserSettings": {
+          "AutoUpdate": true,
+          "HideUser": false,
+          "LocalSave": true,
+          "LastUpdated": "2024-01-01T00:00:00Z"
+        }
+      }
+    }
+  ]
+}
